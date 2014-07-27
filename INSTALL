@@ -1,0 +1,9 @@
+Building prismacoin
+
+See doc/readme-qt.rst for instructions on building prismacoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of prismacoin.
+
+See doc/build-*.txt for instructions on building prismacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of prismacoin.
